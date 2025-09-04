@@ -114,4 +114,9 @@
     "name": "简体中文",
     "country": "中国"
   }
+  {
+    "code": "bn_BD",
+    "name": "Bangla",
+    "country": "Bangladesh"
+  }
 ]
